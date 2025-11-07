@@ -89,17 +89,7 @@ Evaluate the model using standard ranking metrics (Recall@K, Medr, mAP):
 python eval.py --dataset MSRVTT --checkpoint [path/to/best/model]
 ```
 
-## Citation
-If you find this work useful for your research, please consider citing our paper:
 
-```bibtex
-@article{ding2024bridging,
-  title={Bridging the Semantic Gap in Text-Video Retrieval: A Diffusion Generation Network for Enhanced Visual Representation},
-  author={Ding, Songtao and Mao, Chun and Geng, Chun and Wang, Hongyu and Berretti, Stefano and Xing, Yaqiong and Wan, Shaohua},
-  journal={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) (Year Placeholder)},
-  year={2024 (Placeholder)}
-}
-```
 
 ## Contact
 For any questions or discussions, please contact:
