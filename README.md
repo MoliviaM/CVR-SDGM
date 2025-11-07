@@ -1,9 +1,3 @@
-This is a comprehensive README structure tailored for a research project on GitHub, based on the content of your paper.
-
-It's written in Markdown so you can copy/paste it directly into your `README.md` file. Remember to fill in the placeholders for figures, tables, and specific instructions.
-
-***
-
 # CVR-SDGM: Bridging the Semantic Gap in Text-Video Retrieval
 **A Diffusion Generation Network for Enhanced Visual Representation**
 
